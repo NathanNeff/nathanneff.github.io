@@ -7,6 +7,7 @@
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-line-height: 1.5;
+$spacing-unit:     30px;
 
 body {
     font-family: $base-font-family;
@@ -26,4 +27,15 @@ body {
 a {
     color: #333;
     text-decoration: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.wrapper {
+    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
+    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
 }
