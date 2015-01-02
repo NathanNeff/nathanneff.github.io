@@ -14,3 +14,16 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
 }
+
+.site-header {
+    border-bottom: 1px solid #E8E8E8;
+}
+
+.site-title, .site-title:visited {
+    font-size: 40px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
