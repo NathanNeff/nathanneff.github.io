@@ -1,2 +1,4 @@
 exclude: ['readme.md']
 name: "Nate Neff Blog"
+highlighter: pygments
+
