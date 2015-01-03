@@ -15,3 +15,4 @@ tutorial on installing and learning Jekyll
 # Links
 
 * [Sandbox](/sandbox.html)
+* [Tmux](/tmux.html)
