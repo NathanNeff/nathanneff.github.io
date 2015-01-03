@@ -57,11 +57,18 @@ img {
 
 .site-footer {
     border-top: 1px solid #E8E8E8;
+    padding: 30px;
 }
 
 .footer-col {
     float: left;
     padding-left: $spacing-unit / 2;
+}
+
+.footer-col-wrapper {
+    font-size: 15px;
+    color: #828282;
+    margin-left: -15px;
 }
 
 /* Probably better way to do this */
@@ -85,3 +92,20 @@ img {
     list-style: none;
 
 }
+
+
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: #828282;
+        }
+    }
+}
+
+
