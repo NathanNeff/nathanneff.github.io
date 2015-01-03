@@ -9,6 +9,11 @@ $base-font-size:   16px;
 $base-line-height: 1.5;
 $spacing-unit:     30px;
 
+ul {
+    margin:0;
+    padding:0;
+}
+
 h1, h2 {
    font-weight: 300;
 }
@@ -48,4 +53,35 @@ img {
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
+}
+
+.site-footer {
+    border-top: 1px solid #E8E8E8;
+}
+
+.footer-col {
+    float: left;
+    padding-left: $spacing-unit / 2;
+}
+
+/* Probably better way to do this */
+.footer-col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
+    text-align: right;
+}
+
+.contact-list, .social-media-list {
+    list-style: none;
+
 }
