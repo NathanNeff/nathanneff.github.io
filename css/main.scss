@@ -9,13 +9,22 @@ $base-font-size:   16px;
 $base-line-height: 1.5;
 $spacing-unit:     30px;
 
-h1, h2, h3, h4, h5, ul {
+h1, h2, h3, h4, h5, ul, li {
     margin:0;
     padding:0;
 }
 
+ul, ol {
+    margin-left: 30px;
+}
+
 h1, h2, h3, h4 {
    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure {
    margin-bottom: 15px;
 }
 
