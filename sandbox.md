@@ -46,6 +46,20 @@ end
 val boo = 5
 {% endhighlight ruby %}
 
+## Source Code using GFM
+
+```ruby
+def foo 
+    puts 'foo'
+end
+```
+
+```perl
+while (<>) {
+        print "Hello World:   $_\n";
+}
+```
+
 # Misc
 
 ## No Intra Emphasis
