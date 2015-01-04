@@ -4,4 +4,8 @@ highlighter: pygments
 github_username: nathanneff
 twitter_username: nateneff
 email: nate@nateneff.com
+markdown: redcarpet
+redcarpet:
+        extensions: [ tables ]
+
 
