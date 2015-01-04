@@ -6,6 +6,6 @@ twitter_username: nateneff
 email: nate@nateneff.com
 markdown: redcarpet
 redcarpet:
-        extensions: [ tables ]
+        extensions: [ tables, autolink ]
 
 
