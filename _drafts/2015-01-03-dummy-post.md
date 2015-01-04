@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: post
 date: 2015-01-03
-title: Dummy Draft Post 2012 March 1
+title: Dummy Draft Post 2015 January 3rd
 ---
-
-# Some new blog post
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
