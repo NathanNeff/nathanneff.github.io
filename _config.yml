@@ -1,5 +1,5 @@
 exclude: ['readme.md']
-name: "Nate Neff Blog"
+name: "Nate Neff"
 highlighter: pygments
 github_username: nathanneff
 twitter_username: nateneff
