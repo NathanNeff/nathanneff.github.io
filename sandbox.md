@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page is for playing with markdown.
+This page is for playing with markdown and Github Flavored Markdown (GFM)
 
 # Header 1
 
@@ -46,4 +46,12 @@ end
 val boo = 5
 {% endhighlight ruby %}
 
+# Misc
 
+## No Intra Emphasis
+
+this_word_should_not_be_emphasized because the underscores are inside the word.
+
+_these_ _words_ should be emphasized
+
+ these words also_ should be emphasized
