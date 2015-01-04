@@ -16,9 +16,6 @@ Content Cell | Content Cell
 Content Cell | Content Cell
 Content Cell | Content Cell
 Content Cell | Content Cell
-Content Cell | Content Cell
-Content Cell | Content Cell
-Content Cell | Content Cell
 
 ## Header 2
 
