@@ -3,6 +3,10 @@ layout: default
 title : Nate Neff
 ---
 
+# Links
+
+* [Nate Neff Blog](http://blog.nateneff.com)
+
 {% for post in site.posts %}
 <div>
     <h2>{{ post.title }}</h2>
