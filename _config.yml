@@ -9,3 +9,5 @@ redcarpet:
         extensions: [ tables, autolink, no_intra_emphasis ]
 
 
+
+theme: jekyll-theme-minimal
