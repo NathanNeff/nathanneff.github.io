@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NateNeff.com - A Complete Joke</title>
@@ -6,18 +5,20 @@
     <description>Recent content on NateNeff.com - A Complete Joke</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 12 Aug 2019 22:10:45 -0500</lastBuildDate>
-    
-	<atom:link href="https://blog.nateneff.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://blog.nateneff.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First Post</title>
       <link>https://blog.nateneff.com/2019/08/first-post/</link>
       <pubDate>Mon, 12 Aug 2019 22:10:45 -0500</pubDate>
-      
       <guid>https://blog.nateneff.com/2019/08/first-post/</guid>
-      <description>Hello World Hugo is a pretty cool blog engine. I&#39;m dabbling with Hugo with tutorials from here:
-Configuration</description>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+
+&lt;p&gt;Hugo is a pretty cool blog engine.  I&#39;m dabbling with Hugo with
+tutorials from here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34; title=&#34;Configuration&#34;&gt;Configuration&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
