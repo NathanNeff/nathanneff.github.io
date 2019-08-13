@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NateNeff.com - A Complete Joke</title>
+    <title>Make the Web Fun Again on NateNeff.com - A Complete Joke</title>
     <link>https://blog.nateneff.com/</link>
-    <description>Recent content on NateNeff.com - A Complete Joke</description>
+    <description>Recent content in Make the Web Fun Again on NateNeff.com - A Complete Joke</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 12 Aug 2019 22:10:45 -0500</lastBuildDate>
     <atom:link href="https://blog.nateneff.com/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,118 @@ tutorials from here:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34; title=&#34;Configuration&#34;&gt;Configuration&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.nateneff.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://blog.nateneff.com/bar/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/bar/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://blog.nateneff.com/documentation/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/documentation/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://blog.nateneff.com/foo/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/foo/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://blog.nateneff.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a theme</title>
+      <link>https://blog.nateneff.com/bar/create-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/bar/create-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a theme</title>
+      <link>https://blog.nateneff.com/documentation/create-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/documentation/create-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a theme</title>
+      <link>https://blog.nateneff.com/foo/create-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/foo/create-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://blog.nateneff.com/bar/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/bar/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://blog.nateneff.com/documentation/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/documentation/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://blog.nateneff.com/foo/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/foo/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://blog.nateneff.com/bar/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/bar/quickstart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://blog.nateneff.com/documentation/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/documentation/quickstart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://blog.nateneff.com/foo/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nateneff.com/foo/quickstart/</guid>
+      <description></description>
     </item>
     
   </channel>
